@@ -14,12 +14,16 @@ Project title: ? website
 
 3 collaborators:
      Nguyen Minh Trung	 Student1462824
+
 	Dao Minh Phi 		 Student1462836
+
 	Luu Quoc Hoang	      Student1462823
+
 
 ============================
 
 GitHub report link: https://github.com/Trung260502/project/tree/main/document
+
 
 ============================
 
