@@ -1,7 +1,7 @@
 # project
 
 T1.2303.M0 
-eProject-Group_4
+eProject-Group_4_  Juice Shop
 
 
 ========> Group 4 <=========
@@ -10,7 +10,7 @@ Batch no.: T1.2303.M0
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project title: ? website
+Project title: Juice Shop website
 
 3 collaborators:
 
