@@ -1,0 +1,26 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Dao Minh Phi",
+      "firstName": "Phi",
+      "position": "Web Designer",
+      "info": "we are members of group 4 , you can contact us via facebook",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Luu Quoc Hoang",
+      "firstName": "Hoang",
+      "position": "Web Designer",
+      "info": "“we are members of group 4 , you can contact us via facebook”"
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Minh Trung",
+      "firstName": "Trung",
+      "position": "Web Designer",
+      "info": "“we are members of group 4 , you can contact us via facebook”"
+    }
+  ]
+}

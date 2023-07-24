@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Juice Apple",
+      "price": "13.00",
+      "url": "./images/ios.png",
+      "category": "Best Selling Juice"
+    },
+    {
+      "id": 2,
+      "title": "Juice Grape",
+      "price": "15.00",
+      "url": "./images/nho.png",
+      "category": "Best Selling Juice"
+    },
+    {
+      "id": 3,
+      "title": "Juice Fragrant ",
+      "price": "12.00",
+      "url": "./images/thom.png",
+      "category": "Best Selling Juice"
+    },
+    {
+      "id": 4,
+      "title": "Juice Mixed",
+      "price": "17.00",
+      "url": "./images/thapcam.png",
+      "category": "Latest Juice"
+    },
+    {
+      "id": 5,
+      "title": "Juice Strawberry",
+      "price": "19.00",
+      "url": "./images/dau.png",
+      "category": "Latest Juice"
+    }
+  ]
+}
