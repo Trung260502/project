@@ -14,11 +14,10 @@ Project title: ? website
 
 3 collaborators:
 
-     Vu Minh Tuan (tuanvmts2302018@fpt.edu.vn) Student1459120
+    		   Nguyen Minh Trung	 Student1462824
+		   Dao Minh Phi 		 Student1462836
+		   Luu Quoc Hoamg	      Student1462823
 
-     Bui Thi Nhung (nhungbtt1s2302041@fpt.edu.vn) Student1225647
-     
-     Chu Quoc Huy (huycqt1s2302038@fpt.edu.vn) Student1235029
 ============================
 
 GitHub report link: https://github.com/Trung260502/project/tree/main/document
