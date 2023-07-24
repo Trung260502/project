@@ -14,9 +14,9 @@ Project title: ? website
 
 3 collaborators:
 
-    		   Nguyen Minh Trung	 Student1462824
-		   Dao Minh Phi 		 Student1462836
-		   Luu Quoc Hoamg	      Student1462823
+    	Nguyen Minh Trung	 Student1462824
+	Dao Minh Phi 		 Student1462836
+	Luu Quoc Hoang	      Student1462823
 
 ============================
 
