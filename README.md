@@ -21,9 +21,9 @@ Project title: ? website
      Chu Quoc Huy (huycqt1s2302038@fpt.edu.vn) Student1235029
 ============================
 
-GitHub report link: 
+GitHub report link: https://github.com/Trung260502/project/tree/main/document
 
 ============================
 
-eProject published at: 
+eProject published at: https://trung260502.github.io/project/
 
